@@ -1,0 +1,20 @@
+body {
+    margin-left: 5%;
+    background-color: #1F2937;
+    
+}
+
+
+h1{
+    color:white;
+}
+.btn{
+    color:green;
+    border-radius:5%;
+    margin-bottom:5%;
+}
+div{
+    color:greenyellow;
+    display: inline;
+    margin-left:5%;
+}
